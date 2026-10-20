@@ -1,0 +1,7 @@
+"column","celltype","sample","n_cells","group"
+"Fibroblast__C1","Fibroblast","C1",1249,"Control"
+"Fibroblast__C2","Fibroblast","C2",1353,"Control"
+"Fibroblast__C3","Fibroblast","C3",1317,"Control"
+"Fibroblast__R1","Fibroblast","R1",1576,"Recovery"
+"Fibroblast__R2","Fibroblast","R2",1480,"Recovery"
+"Fibroblast__R3","Fibroblast","R3",1556,"Recovery"

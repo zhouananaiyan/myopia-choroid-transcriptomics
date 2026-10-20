@@ -1,0 +1,44 @@
+[
+  {
+    "url": "https://ftp.ensembl.org/pub/release-105/tsv/ensembl-compara/homologies/mus_musculus/Compara.105.protein_default.homologies.tsv.gz",
+    "file": "mouse_Compara105_protein.tsv.gz",
+    "bytes": 159292298,
+    "sha256": "d475079c83539ab4594b3efb4fb9f9f55108f81ddac23299a74799e0ee033bdf"
+  },
+  {
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE235nnn/GSE235684/soft/GSE235684_family.soft.gz",
+    "file": "GSE235684_family.soft.gz",
+    "bytes": 4350,
+    "sha256": "f38e5e4b67c731fe0edfd1ea83ea955d444263f71ff17e141e83874f1ae7fa8b"
+  },
+  {
+    "url": "https://ftp.ensembl.org/pub/release-105/tsv/ensembl-compara/homologies/gallus_gallus/Compara.105.protein_default.homologies.tsv.gz",
+    "file": "Compara.105.protein_default.homologies.tsv.gz",
+    "sha256": "3d855e473661dab43701753323630429f3d40a0abc6582be8ab66998fd096c41"
+  },
+  {
+    "metadata_curation": {
+      "file": "analysis/inputs/GSE256200_metadata.csv",
+      "basis": "GEO sample title plus count-column description; source/tissue fields were internally inconsistent for these two samples",
+      "changed": [
+        {
+          "gsm": "GSM8087498",
+          "before": {"source": "Choroid", "tissue": "Choroid"},
+          "after": {"source": "Retina", "tissue": "Retina"}
+        },
+        {
+          "gsm": "GSM8087499",
+          "before": {"source": "Retina", "tissue": "Retina"},
+          "after": {"source": "Choroid", "tissue": "Choroid"}
+        }
+      ]
+    }
+  },
+  {
+    "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE256nnn/GSE256200/suppl/GSE256200_count_table.txt.gz",
+    "file": "analysis/inputs/GSE256200_count_table.txt.gz",
+    "source_bytes_before_cleanup": 1397712,
+    "copied_bytes_after_cleanup": 1381328,
+    "trailing_bytes_removed": 16384
+  }
+]

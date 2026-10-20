@@ -1,0 +1,19 @@
+{
+  "role": "ZIP/PDF packaging runtime only; not the original statistical-analysis environment",
+  "built_at_utc": "2026-10-14T14:31:33.576558+00:00",
+  "python_version": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "installed_packages_at_package_build": {
+    "reportlab": "4.4.9",
+    "python-docx": "1.2.0",
+    "Pillow": "12.3.0",
+    "pandas": "3.0.1",
+    "numpy": "2.3.5",
+    "scipy": "not installed in packaging runtime",
+    "matplotlib": "not installed in packaging runtime",
+    "requests": "not installed in packaging runtime"
+  },
+  "R_export_environment": "analysis/inputs/export_sessionInfo.txt",
+  "R_analysis_environment": "analysis/results/sessionInfo.txt",
+  "limitation": "The original Python analysis environment was not separately frozen. Requirements files list dependencies, not a retrospective version lock."
+}

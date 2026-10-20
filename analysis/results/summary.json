@@ -1,0 +1,30 @@
+{
+  "common_genes": 7335,
+  "up": 92,
+  "down": 123,
+  "candidates": 31,
+  "candidate_up": 6,
+  "candidate_down": 25,
+  "top10": [
+    "CLEC3B",
+    "PLXDC2",
+    "PPFIBP2",
+    "SLMAP",
+    "RCAN2",
+    "PLCB4",
+    "EFEMP1",
+    "MT4",
+    "DGKH",
+    "SHE"
+  ],
+  "rho": -0.056865970952380406,
+  "spearman_p": 1.0970619187721514e-06,
+  "Recovery_up": {
+    "median_mouse_logFC": 0.04109693231677605,
+    "MWU_p": 0.8886066373555366
+  },
+  "Recovery_down": {
+    "median_mouse_logFC": 0.0723809836172846,
+    "MWU_p": 0.0032240502205597497
+  }
+}

@@ -1,0 +1,9 @@
+# Python dependencies for table-specification, PDF/ZIP and auxiliary DOCX work.
+# These are packaging dependencies, NOT the original statistical environment.
+pandas
+reportlab
+python-docx
+Pillow
+# 07_build_workbook.mjs additionally needs Node.js and @oai/artifact-tool.
+# The latter is an originating-runtime dependency, not bundled in this archive.
+# Original .mjs package availability/version is not asserted by this pip list.

@@ -1,0 +1,7 @@
+"column","celltype","sample","n_cells","group"
+"Fibroblast__M1","Fibroblast","M1",1027,"Tropicamide"
+"Fibroblast__M2","Fibroblast","M2",1295,"Tropicamide"
+"Fibroblast__M3","Fibroblast","M3",722,"Tropicamide"
+"Fibroblast__N1","Fibroblast","N1",478,"Saline"
+"Fibroblast__N2","Fibroblast","N2",421,"Saline"
+"Fibroblast__N3","Fibroblast","N3",828,"Saline"

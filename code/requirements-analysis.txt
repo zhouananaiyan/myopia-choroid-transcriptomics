@@ -1,0 +1,9 @@
+# Python dependencies for 01_prepare_mapping.py, 04_enrichment.py and
+# 05_summarize_and_plot.py. This is NOT a retrospective version lockfile.
+# R versions are in analysis/results/sessionInfo.txt; the optional Seurat
+# export environment is in analysis/inputs/export_sessionInfo.txt.
+pandas
+numpy
+scipy
+matplotlib
+requests

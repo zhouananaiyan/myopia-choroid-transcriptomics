@@ -1,0 +1,25 @@
+# Local configuration and credentials
+code/config.json
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Runtime files
+__pycache__/
+*.py[cod]
+.Rhistory
+.RData
+.Rproj.user/
+.venv/
+venv/
+node_modules/
+.DS_Store
+Thumbs.db
+
+# Regenerated presentation artifacts
+analysis/workbook_data/
+submission/
+qa/
+~$*

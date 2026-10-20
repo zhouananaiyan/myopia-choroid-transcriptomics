@@ -1,0 +1,8 @@
+{
+  "source_root": "/absolute/path/to/original_analysis_archive",
+  "output_root": "/absolute/path/to/extracted_reanalysis_package",
+  "chick_features": "/absolute/path/to/GSE235684/features.tsv",
+  "mouse_features": "/absolute/path/to/GSE293607/features.tsv.gz",
+  "seed": 20261014,
+  "r_library": null
+}
